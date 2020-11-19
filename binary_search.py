@@ -45,5 +45,3 @@ def binary_search2(array, value):
 
 array = [1,3,9,11,15,19,29]
 value = 29
-
-print(binary_search2(array, value))

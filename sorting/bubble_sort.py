@@ -12,4 +12,4 @@ def bubble_sorting(array):
 
 
 array = [8,2,6,4,5]
-print(bubble_sorting(array))
+
